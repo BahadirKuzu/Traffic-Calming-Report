@@ -1,4 +1,4 @@
-# Traffic Calming Methods and Applications Review
+# Traffic Calming Methods and Applications
 
 ## Overview
 This repository contains a comprehensive review of traffic calming methods and their applications in urban planning. The report explores various strategies, including speed humps, chicanes, road narrowing, and traffic circles, focusing on their effectiveness in improving road safety and pedestrian environments.
